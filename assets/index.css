@@ -1,0 +1,74 @@
+.contenedor {
+    background-image: url("../Discos/Header.jpg");
+    background-size: cover;
+            background-position: center;
+            position: relative;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+}
+
+.texto {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: right;
+    padding: 30px;
+    font-size: 20px;
+    color: white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+}
+
+table, td, th, tr {
+    margin-left: auto;
+    margin-right: auto;
+    border: 50px  rgb(224, 188, 89) solid;
+}
+
+.icono {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+}
+
+.shop {
+    font-size: 50px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(224, 188, 89);
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 135%;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 135%;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer {
+    background-color: rgb(15, 139, 75);
+    text-align: center;
+    margin: 20px;
+    border: 20px;
+    padding: 20px;
+}
